@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +63,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# nutrimais
+Projeto criador para aplicar conhecimento em Laravel/PHP 
+
+
+Hoje, 04/05/2022 eu inicio esse projeto para começar a praticar o Laravel e abaixo vou colocar as ideias que já tive em mente por meio de uma espécie de organograma
+
+O diagrama abaixo foi o que fiz inicialmente para organizar minhas ideias. 
+
+![image](https://user-images.githubusercontent.com/47305804/166836060-167e9d3b-e2ce-401f-9d32-c68db7860aa7.png)
+
+
+Em breve volto com outras novidades. 
+>>>>>>> 9a68680013755adc0d5d939a8b117f60c1e36a03
