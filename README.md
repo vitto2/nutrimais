@@ -11,14 +11,14 @@ O diagrama abaixo foi o que fiz inicialmente para organizar minhas ideias.
 
 
 Em breve volto com outras novidades. 
->>>>>>> 9a68680013755adc0d5d939a8b117f60c1e36a03
 
 
-Dia 06/05/2022 
+**Dia 06/05/2022 **
 
 Algumas avanços foram feitos no projeto, criei Controllers com as actions que serão exeutadas quando o usuário clicar nos botões, ou seja, ao clicar no botão 'login' o usuário será redirecionado para a página de login e isso foi possível com a criação das views e rotas. 
 
-Atualmente tenho esse controllers criados: 
+Atualmente tenho esse **controllers** criados: 
+
 ![image](https://user-images.githubusercontent.com/47305804/167204349-580ccb50-0c36-43b0-b448-39e37e4313c5.png)
 
 Cada controller possui um action que retorna a view com o conteúdo da página: 
