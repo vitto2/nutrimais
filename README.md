@@ -21,17 +21,20 @@ Atualmente tenho esse **controllers** criados:
 
 ![image](https://user-images.githubusercontent.com/47305804/167204349-580ccb50-0c36-43b0-b448-39e37e4313c5.png)
 
-Cada controller possui um action que retorna a view com o conteúdo da página: 
+Cada controller possui um action que retorna a view com o conteúdo da página. 
 
 Controller página Home: 
+
 
 ![image](https://user-images.githubusercontent.com/47305804/167204497-aecb8077-e7e1-4386-bbc5-d1258a606cd0.png)
 
 que retorna a view da página home: 
+
 ![image](https://user-images.githubusercontent.com/47305804/167204545-56bad835-2e19-471c-8f49-92099eceb50e.png)
 
 
 Todas as rotas possuem nomes atribuídos a elas para facilitar na hora de usa-los dentro das views, que foi o caso acima, onde uso os nomes para criar o menu de navegação(ainda sem personalização). 
+
 ![image](https://user-images.githubusercontent.com/47305804/167204761-20797b5e-c644-412d-8c28-c749774a310d.png)
 
 E por enquanto as alterações estão nesse nível. Em breve novas atualizações. 
