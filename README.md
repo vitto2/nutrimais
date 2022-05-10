@@ -7,7 +7,7 @@ Hoje, 04/05/2022 eu inicio esse projeto para começar a praticar o Laravel e aba
 
 O diagrama abaixo foi o que fiz inicialmente para organizar minhas ideias. 
 
-![image](https://user-images.githubusercontent.com/47305804/166836060-167e9d3b-e2ce-401f-9d32-c68db7860aa7.png)
+![Diagrama em branco](https://user-images.githubusercontent.com/47305804/167612720-8e1e3f58-7d90-4a41-827a-0d9bb72b3763.png)
 
 
 Em breve volto com outras novidades. 
